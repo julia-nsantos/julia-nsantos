@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Julia Nunes 🙋🏻‍♀️
 
-- 👩🏻‍💻 Atualmente sou graduanda em Ciência da Computação.
+- 👩🏻‍💻 Atualmente sou ***graduanda*** em Ciência da Computação.
 
 <h3 align=""> <b> 😛 Sobre mim: </b> </h3>
 
