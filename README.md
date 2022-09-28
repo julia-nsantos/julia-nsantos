@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Julia Nunes 🙋🏻‍♀️
 
 - 👩🏻‍💻 Atualmente sou ***graduanda*** em Ciência da Computação.
-- 👩🏻‍💻 Sou estágiaria Full-Stack na Avanade.
 
 <h3 align=""> <b> 😛 Sobre mim: </b> </h3>
 
