@@ -6,7 +6,6 @@
 <h3 align=""> <b> 😛 Sobre mim: </b> </h3>
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/106779241/183421412-b6d5c309-0980-48c3-a1f0-7cdc3fb87320.gif) 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/106779241/183423515-9275224f-7361-425e-8651-f87845787ec3.gif)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/106779241/183424593-7cec5e7a-2fe0-4297-a661-2b84ed164bac.gif)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/106779241/183425290-053b051e-a194-4444-bad0-a22e776f0f27.gif)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/106779241/183429564-939221ab-4969-4014-86fb-6e626c3c4ae9.gif)
