@@ -11,8 +11,22 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/106779241/183429564-939221ab-4969-4014-86fb-6e626c3c4ae9.gif)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/106779241/183431419-7fc2ae9b-ed83-4b2e-9ee0-1a2b1b290bf6.gif)
 
-
-
+##
+<h3 align="center"> <b> 🌟 GitHub Stats: </b> </h3>
+<div align="center">
+  <a href="https://github.com/julia-nsantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-nsantos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-nsantos&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Julia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Julia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Julia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Julia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Julia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+ ##
+ 
 
  <div>
  
