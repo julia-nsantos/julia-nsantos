@@ -18,11 +18,6 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/106779241/183429564-939221ab-4969-4014-86fb-6e626c3c4ae9.gif)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/106779241/183431419-7fc2ae9b-ed83-4b2e-9ee0-1a2b1b290bf6.gif)
 
-<div align="center">
-  <br><p><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{julia-nsantos}/count.svg" /></p> 
-<br></div>
-
  
  <div>
  
