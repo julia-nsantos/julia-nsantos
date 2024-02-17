@@ -5,10 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e70e60&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Julia+Nunes;I'm+from+São+Paulo,+SP;I'm+studying+Information+Systems)](https://git.io/typing-svg)
 
-<div align="center">
-    <a href="https://github.com/julia-nsantos">
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-nsantos&layout=compact&hide_border=true&title_color=e70e60&icon_color=feb5f2&text_color=dcdde1&&bg_color=0d1117"/> 
-</div>
+
  
 <h3 align="center"> <b>ABOUT ME </b> </h3>
 
