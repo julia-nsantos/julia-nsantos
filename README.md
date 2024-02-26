@@ -2,10 +2,7 @@
 </div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4ad0&height=160&section=header&text=Welcome!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-<div align="center">
-    <a href="https://github.com/julia-nsantos">
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-nsantos&layout=compact&hide_border=true&title_color=e70e60&icon_color=feb5f2&text_color=dcdde1&&bg_color=0d1117"/> 
-</div>
+
  
 <h3 align="center"> <b>ABOUT ME </b> </h3>
 
