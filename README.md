@@ -1,9 +1,8 @@
 # Hello, World! Eu sou a Julia 😁 
-<img align="right" width="200" src="https://media0.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=ecf05e47lvqdirrebclp6lrt1zs4s1io6gr1vdkupbvtch9r&rid=giphy.gif&ct=g"/>
 
 - 🧡 Sou estagiária na Avanade.
 - 🎓 Estudo Sistemas de Informação e concluo o curso em 2027.
-- 💻 Estou esudando JavaScrpt e PHP para Desenvovimento Web.
+- 💻 Estou esudando React e Nodejs
 - 👯 Procuro projetos legais e interessantes para colaborar e aprender mais.
 
   <h3 align="center"> <b>Um pouco mais sobre mim </b> </h3>
