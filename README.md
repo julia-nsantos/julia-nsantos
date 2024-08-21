@@ -3,7 +3,7 @@
 - 🧡 Sou Analista Junior na Avanade.
 - 🎓 Estudo Sistemas de Informação e concluo o curso em 2027.
 - 💻 Estou estudando React e Nodejs
-- 👯 Procuro projetos legais e interessantes para colaborar e aprender mais.
+
 
   <h3 align="center"> <b>Um pouco mais sobre mim </b> </h3>
 
