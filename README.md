@@ -1,7 +1,18 @@
 # Hello, World! Eu sou a Julia 😁 
 
-- 🎓 Estudo Sistemas de Informação e concluo o curso em 2027.
-- 💻 Estou estudando Javascript e React
+#### 🐞 Quality Assurance Engineer | Apaixonada por Testes e Código
+
+Sou uma profissional focada em **Garantia de Qualidade (QA)**, apaixonada por encontrar *bugs* e garantir que produtos e sistemas sejam robustos e confiáveis. Minha missão é transformar a experiência do usuário em algo excelente, através de uma abordagem estratégica e detalhista.
+
+#### 🔍 Foco Principal: Automação de Testes com Cypress
+
+Atualmente, meu maior foco está em aprimorar minhas habilidades em **Automação de Testes**.
+
+* **Principal Ferramenta em Estudo:** Estou me aprofundando em **Cypress** para construir testes de ponta a ponta (E2E) rápidos e confiáveis, visando a integração contínua e a melhoria da cobertura de testes.
+
+#### 🌱 Programação por hobby
+
+Embora meu foco profissional seja QA, eu sou uma entusiasta da programação e adoro codificar no meu tempo livre. Gosto de construir pequenos projetos em JavaScript para aprender novos conceitos & estudo lógica de programação com Python.
 
 
   <h3 align="center"> <b>Um pouco mais sobre mim </b> </h3>
