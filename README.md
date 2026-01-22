@@ -12,7 +12,7 @@ Atualmente, meu maior foco está em aprimorar minhas habilidades em **Automaçã
 
 #### 🌱 Programação por hobby
 
-Embora meu foco profissional seja QA, eu sou uma entusiasta da programação e adoro codificar no meu tempo livre. Gosto de construir pequenos projetos em JavaScript para aprender novos conceitos & estudo lógica de programação com Python.
+Embora meu foco profissional seja QA, eu sou uma entusiasta da programação e adoro codificar no meu tempo livre. Gosto de construir pequenos projetos em JavaScript para aprender novos conceitos & estudo lógica de programação com Python e Java.
 
 
   <h3 align="center"> <b>Um pouco mais sobre mim </b> </h3>
